@@ -13,6 +13,9 @@
 .nav-item-btn{
     color: #193765!important;
 }
+.my-navbar ul{
+    list-style: none;
+}
 
 .nav-item-btn:hover{
     color: #73CFB4 !important;
